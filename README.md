@@ -5,3 +5,6 @@
 - [Entry form template](ENTRYFORM.md)
   
 ### ⟹ [Insert your documentation here](ENTRYFORM.md) <<
+
+
+Sitecore Dev Companion
